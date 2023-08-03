@@ -1,0 +1,99 @@
+body {
+
+	background-color: #f0f0f0; 
+	background-image: url('images/station.jpg');
+	background-size:cover;
+	color: #0b0909;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+	line-height: 1.6;
+	font-weight: bold;
+	height: 100vh;
+  }
+  
+.container{
+	background: white;
+	max-width:80%;
+	margin:auto;
+	border:3px solid black;
+	border-radius:10px;
+
+}
+
+.button {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #d000ff;
+	color: #0cf320;
+	border: none;
+	border-radius: 4px;
+	font-size: 16px;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: bold;
+	width:200px;
+  }
+  
+
+#click-btn {
+
+	background: rgb(236, 163, 29);
+	color: black;
+	font-weight: bold;
+	display: inline-block;
+	padding: 10px 20px; 
+	border: none;
+	border-radius: 4px;
+	font-size: 16px;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: bold;
+	width:200px;
+}
+
+#output{
+	color: rgb(198, 7, 7);
+	font-weight: bold;
+	font-size: 50px;
+	font-weight: bold;
+
+}
+
+#save-btn {
+
+	background: rgb(90, 227, 4);
+	color: black;
+	font-weight: bold;
+	display: inline-block;
+	padding: 10px 20px; 
+	border: none;
+	border-radius: 4px;
+	font-size: 16px;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: bold;
+	width:200px;
+}
+
+#reset-btn {
+
+	background: rgb(219, 36, 161);
+	color: black;
+	font-weight: bold;
+	display: inline-block;
+	padding: 10px 20px; 
+	border: none;
+	border-radius: 4px;
+	font-size: 16px;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: bold;
+	width:200px;
+}
+
+p
+{
+	color:red;
+}
